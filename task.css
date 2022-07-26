@@ -1,0 +1,33 @@
+* {
+    padding: 0rem 1rem;
+}
+
+html {
+    font-size: 16px;
+}
+
+h1 {
+    margin-left: 1rem;
+}
+
+hr {
+    width: 60%;
+    margin-left: 2rem;
+}
+
+.author-info  {
+    margin-left: 1.5rem;
+}
+
+#author-name {
+    padding: 0;
+    font-weight: bold;
+}
+
+p {
+    width: 65%;
+}
+
+ol {
+    list-style-position: inside;
+}
